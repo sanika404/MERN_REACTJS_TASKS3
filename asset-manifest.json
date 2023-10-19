@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MERN_REACTJS_TASKS3/static/css/main.d10d48c9.css",
+    "main.js": "/MERN_REACTJS_TASKS3/static/js/main.b1e67dda.js",
+    "static/js/787.18e70f03.chunk.js": "/MERN_REACTJS_TASKS3/static/js/787.18e70f03.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/MERN_REACTJS_TASKS3/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/MERN_REACTJS_TASKS3/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/MERN_REACTJS_TASKS3/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/MERN_REACTJS_TASKS3/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/MERN_REACTJS_TASKS3/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/MERN_REACTJS_TASKS3/index.html",
+    "main.d10d48c9.css.map": "/MERN_REACTJS_TASKS3/static/css/main.d10d48c9.css.map",
+    "main.b1e67dda.js.map": "/MERN_REACTJS_TASKS3/static/js/main.b1e67dda.js.map",
+    "787.18e70f03.chunk.js.map": "/MERN_REACTJS_TASKS3/static/js/787.18e70f03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10d48c9.css",
+    "static/js/main.b1e67dda.js"
+  ]
+}
